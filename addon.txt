@@ -1,0 +1,6 @@
+"AddonInfo"
+{
+	"name" "[simfphys] Mitsubishi Pack Vol. 1"
+	"author_name" "Author Name"
+	"info" "{"title":"[simfphys] Mitsubishi Pack Vol. 1","type":"vehicle","tags":["fun","roleplay"],"ignore":[]}"
+}
